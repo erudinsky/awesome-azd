@@ -3616,20 +3616,33 @@
       "new"
     ]
   },
-{
-  "title": "Remote MCP Functions with Python",
-  "description": "This scenario demonstrates how to to easily build and deploy a custom remote MCP (Message Control Protocol) server to the cloud using Azure functions and Python.",
-  "preview": "./templates/images/azure-functions-mcp-server-python.png",
-  "website": "https://github.com/Azure-Samples",
-  "author": "Paul Yuknewicz",
-  "source": "https://github.com/Azure-Samples/remote-mcp-functions-python",
-  "tags": [
-    "functions",
-    "python",
-    "bicep",
-    "msft",
-    "ai",
-    "new"
-  ]
-}
+  {
+    "title": "Remote MCP Functions with Python",
+    "description": "This scenario demonstrates how to to easily build and deploy a custom remote MCP (Message Control Protocol) server to the cloud using Azure functions and Python.",
+    "preview": "./templates/images/azure-functions-mcp-server-python.png",
+    "website": "https://github.com/Azure-Samples",
+    "author": "Paul Yuknewicz",
+    "source": "https://github.com/Azure-Samples/remote-mcp-functions-python",
+    "tags": [
+      "functions",
+      "python",
+      "bicep",
+      "msft",
+      "ai",
+      "new"
+    ]
+  },
+  {
+    "title": "This template helps you quickly publish a static website to Azure Web App (Static Site).",
+    "description": "The template is designed to simplify the process of deploying static websites to Azure, leveraging the Azure Developer CLI (azd) for streamlined setup and deployment.",
+    "preview": "./templates/images/staticSite.png",
+    "website": "https://github.com/erudinsky",
+    "author": "Evgeny Rudinsky",
+    "source": "https://github.com/erudinsky/azd-static-web-vuejs",
+    "tags": [
+      "vuejs",
+      "swa",
+      "bicep"
+    ]
+  }
 ]
